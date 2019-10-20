@@ -1,4 +1,4 @@
-# Top-10-Card-Game
+# Top-10-Card-Game - Please see www-project-top-10-card-game.
 
 Game Description
 
